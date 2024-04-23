@@ -13,6 +13,8 @@ Process of traning model occured on Advantech WISE-PaaS/AIFS (workspace for trai
  
 # Step 3: Use Industrial camera Baumer to capture PCB images sent to WISE-PaaS/AIFS to inference
 
+![Screenshot from 2024-04-23 15-28-05](https://github.com/Duc0509Ngo/PCB-defects-detection/assets/97351010/60e8d565-75e1-4c2f-9cac-f11544252fe5)
+
 Using MQTT to tranfer image to the server
 
 # Step 4: Store detections of PCB defects in WISE-PaaS Database
