@@ -11,7 +11,7 @@ Process of traning model occured on Advantech WISE-PaaS/AIFS (workspace for trai
 
  ![Screenshot from 2024-04-23 14-41-24](https://github.com/Duc0509Ngo/PCB-defects-detection/assets/97351010/4389b26e-49a1-49e1-ae6e-38eb754db4cf)
  
-# Step 3: Use webcam to capture PCB images sent to WISE-PaaS/AIFS to inference
+# Step 3: Use Industrial camera Baumer to capture PCB images sent to WISE-PaaS/AIFS to inference
 
 Using MQTT to tranfer image to the server
 
