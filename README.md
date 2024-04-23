@@ -18,3 +18,7 @@ Using MQTT to tranfer image to the server
 # Step 4: Store detections of PCB defects in WISE-PaaS Database
 
 # Step 5: Display the PCB defects on Dashboard Grafana
+
+# Reference:
+
+https://arxiv.org/pdf/1901.08204v1.pdf
